@@ -1,0 +1,26 @@
+/*********************************
+
+primary color: #7D4400
+
+
+
+*********************************/
+
+
+.top-bar, .top-bar ul{
+	background: #fff;
+	margin-bottom: 1%;
+}
+
+.top-bar img{
+	width: 398px;
+	height: 88px;
+}
+
+.menu{
+	border: solid 1px #7D4400;
+}
+
+.menu > li > a {
+    padding: 0.7rem 0.5rem;
+}
